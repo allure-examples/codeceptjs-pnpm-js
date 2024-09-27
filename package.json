@@ -1,0 +1,17 @@
+{
+  "name": "codeceptjs-pnpm-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "test": "codeceptjs run --plugins allure"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "codeceptjs": "^3.6.7",
+    "allure-codeceptjs": "^3.0.2",
+    "allure-js-commons": "^3.0.2"
+  }
+}
