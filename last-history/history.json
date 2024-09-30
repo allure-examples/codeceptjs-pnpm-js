@@ -1,0 +1,1 @@
+{"f2045d36fce522fda20c229b405a9f2e:d41d8cd98f00b204e9800998ecf8427e":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"7f69429831ba1222","reportUrl":"https://allure-examples.github.io/codeceptjs-pnpm-js/5//#testresult/7f69429831ba1222","status":"passed","time":{"start":1727699761629,"stop":1727699761639,"duration":10}}]}}
