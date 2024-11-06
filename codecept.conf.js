@@ -4,7 +4,7 @@ exports.config = {
   output: "./output",
   plugins: {
     allure: {
-      outputDir: "./allure-results",
+      resultsDir: "./allure-results",
       require: "allure-codeceptjs",
     },
   },
